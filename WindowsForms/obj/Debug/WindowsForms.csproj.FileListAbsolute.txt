@@ -1,0 +1,4 @@
+c:\users\home\documents\visual studio 2017\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2017\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+c:\users\home\documents\visual studio 2017\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+c:\users\home\documents\visual studio 2017\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
